@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <main.h>
 
 /**
  * putchar - calls standard _putchar function. outputs a character
