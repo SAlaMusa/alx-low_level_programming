@@ -5,5 +5,7 @@
 
 /* Function prototypes */
 int putchar(char c);
+/// @brief 
+_putchar();
 
 #endif /* MAIN_H */
